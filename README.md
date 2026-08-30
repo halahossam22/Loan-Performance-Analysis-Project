@@ -1,12 +1,12 @@
 # Loan Performance Analysis Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project is an end-to-end Excel data analysis project focused on analyzing loan performance and transforming raw data into meaningful business insights.
 
 The project covers the complete data analysis workflow, from understanding the dataset and business logic to data cleaning, data modeling, analysis, and dashboard creation.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze overall loan performance
 - Explore loan amounts and applications
@@ -14,7 +14,7 @@ The project covers the complete data analysis workflow, from understanding the d
 - Compare loan performance across different dimensions
 - Present insights through an interactive dashboard
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 
 - Microsoft Excel
 - Power Query
@@ -25,7 +25,7 @@ The project covers the complete data analysis workflow, from understanding the d
 - Data Analysis
 - Dashboard Design
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Understanding the data and business requirements
 2. Cleaning and preparing the data
@@ -39,16 +39,13 @@ The project covers the complete data analysis workflow, from understanding the d
 
 The dashboard provides an overview of key loan performance metrics and allows users to explore the data and identify important trends and patterns.
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `Loan Performance Dashboard.xlsx` — Complete Excel analysis project
 - `Dashboard.png` — Screenshot of the final dashboard
 - `README.md` — Project documentation
 
-## 🚀 Key Learning Outcomes
+## Key Learning Outcomes
 
 This project helped me apply the complete data analysis workflow in a practical scenario and gain experience in thinking from both a data and business perspective.
 
----
-
-⭐ If you found this project interesting, feel free to explore the repository!
